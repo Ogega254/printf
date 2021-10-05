@@ -1,4 +1,4 @@
-.TH _PRINTF "March/2020" "1.0" "Maximiliano Pan & Rodolfo Delgado" "manpage _printf"
+.TH _PRINTF "March/2020" "1.0" "Gideon Mokaya" "manpage _printf"
 
 .P
 
@@ -13,7 +13,7 @@ _printf \- function that prints strings, characters, and more.
 
 .P
 
-#include "holberton.h"
+#include "main.h"
 
 .RS
 	- #include <unistd.h>
@@ -93,8 +93,6 @@ No bugs found yet.
 
 .P
 
-Maximiliano Pan GitHub: https://github.com/pxnmatz
-Rodrigo Delgado GitHub: https://github.com/Ro8s
 
 .PP
 
